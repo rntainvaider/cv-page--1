@@ -1,1 +1,1 @@
-https://rntainvaider.github.io/cv-page--1/
+https://roadmap.sh/projects/single-page-cv
