@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', Times, sans-serif;
+}
+
+.container {
+    max-width: 750px;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 20px;
+    padding: 60px 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.resume__line {
+    max-width: 70%;
+    height: 2px;
+    background-color: black;
+}
+
+.resume__title {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.resume__block {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.resume__subtitle {
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--green);
+}
+
+.resume__text {
+    font-size: 15px;
+}
+
+.resume__heading {
+    font-size: 17px;
+    color: var(--blue);
+}
